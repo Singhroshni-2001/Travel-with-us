@@ -55,4 +55,4 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ## 📩 Contact
 **👩‍💻 Developed by Roshni Singh**
-📧 Reach out on [LinkedIn](https://www.linkedin.com/in/roshni-singh)
+📧 Reach out on [LinkedIn](https://www.linkedin.com/in/roshni-singh-7645sd/)
